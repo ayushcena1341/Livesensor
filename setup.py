@@ -3,7 +3,7 @@ from typing import List
 
 
 def get_requirements()->List[str]:
-    reuirements_list=List[str]=[]
+    reuirements_list:List[str]=[]
     return reuirements_list
 setup(
     name="sensorlive",
